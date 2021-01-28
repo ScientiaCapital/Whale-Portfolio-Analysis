@@ -1,6 +1,6 @@
 # Whale-Portfolio-Analysis
 
-Risk Return Analysis
+module4_challenge
 
 
 We were tasked with evaluating four new investment options for inclusion in our client portfolios. We were also tasked with isolating the fund with the most investment potential based on four key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
