@@ -26,7 +26,7 @@ We were tasked with evaluating four new investment options for inclusion in our 
 
 ## Contributors
 
-New development created by Scientia Capital and Trading Boyz. **Code from 'Uploaded Starter Files' commit originates from UC Berkeley Extension and there is no claim of original ownership nor scholarship**.
+New development created by Scientia Capital and my classmates through Study Groups. **Code from 'Uploaded Starter Files' commit originates from UC Berkeley Extension and there is no claim of original ownership nor scholarship**.
 
 ---
 
