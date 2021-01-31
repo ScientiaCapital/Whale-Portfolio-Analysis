@@ -1,8 +1,8 @@
-# Whale Portfolio: Analyzing Portfolio Risk and Return Analysis
+# Emergency Fund and Retirement Planning Analysis
 
-According to _thebalancecareers.com_, a __whale__ "is a sales prospect so big that it could make a major difference to your company's business." In the context of hedge funds, a whale is a player in the financial milieu who holds an exorbitant asset portfolio enough to influence the direction of a market. Within this repository, we take a look at a selection of well-known hedge funds and analyze their risk-return profiles.
+According to _themedium.com_, a __whale__ "is a sales prospect so big that it could make a major difference to your company's business." In the context of hedge funds, a whale is a player in the financial milieu who holds an exorbitant asset portfolio enough to influence the direction of a market. Within this repository, we take a look at a selection of well-known hedge funds and analyze their risk-return profiles.
 
-![Whale Portfolio Analysis](./images/image_1)
+![Emergency Fund and Retirement Planning Analysis](../images/image_1.jpg)
 
 ---
 
@@ -30,9 +30,9 @@ pip install matplotlib
 
 ## Examples
 
-[Table](./images/image_2)
+[Table](../images/image_2.png)
 
-[Plot](./images/image_3)
+[Plot](../images/image_3.png)
 
 ---
 
