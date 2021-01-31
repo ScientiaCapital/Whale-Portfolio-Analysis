@@ -1,6 +1,6 @@
 # Emergency Fund and Retirement Planning Analysis
 
-According to _themedium.com_, a __whale__ "is a sales prospect so big that it could make a major difference to your company's business." In the context of hedge funds, a whale is a player in the financial milieu who holds an exorbitant asset portfolio enough to influence the direction of a market. Within this repository, we take a look at a selection of well-known hedge funds and analyze their risk-return profiles.
+According to _themedium.com_, a __whale__ "A whale is any individual or company who has enough money and power to directly influence the price of a cryptocurrency or stock, usually in a negative way. Think of a whale and their large mass. They can make huge splashes and the same concept can be applied to crypto/financial markets."
 
 ![Emergency Fund and Retirement Planning Analysis](../images/image_1.jpg)
 
