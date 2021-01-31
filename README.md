@@ -1,15 +1,9 @@
-# Whale Portfolio Analysis
+# Whale Portfolio: Analyzing Portfolio Risk and Return Analysis
 
 According to _thebalancecareers.com_, a __whale__ "is a sales prospect so big that it could make a major difference to your company's business." In the context of hedge funds, a whale is a player in the financial milieu who holds an exorbitant asset portfolio enough to influence the direction of a market. Within this repository, we take a look at a selection of well-known hedge funds and analyze their risk-return profiles.
 
 ![Whale Portfolio Analysis](./images/image_1)
 
-
-## Analyzing Portfolio Risk and Return
-
-In this Challenge, you'll assume the role of a quantitative analyst for a FinTech investing platform. This platform aims to offer clients a one-stop online investment solution for their retirement portfolios that’s both inexpensive and high quality. Think about {Wealthfront}(www.wealthfront.com) or {Betterment}(www.betterment.com). To keep the costs low, the firm uses algorithms to build each client's portfolio. The algorithms choose from various investment styles and options.
-
-You've been tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. (People sometimes refer to these managers as whales, because of the large amount of money that they manage). You’ll need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 ---
 
 ## Technologies
